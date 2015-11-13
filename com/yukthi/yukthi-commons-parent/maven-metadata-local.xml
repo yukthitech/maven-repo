@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
-  <groupId>com.yukthi.webutils</groupId>
-  <artifactId>webutils-client</artifactId>
+  <groupId>com.yukthi</groupId>
+  <artifactId>yukthi-commons-parent</artifactId>
   <versioning>
     <release>1.0</release>
     <versions>
       <version>1.0</version>
     </versions>
-    <lastUpdated>20151113015439</lastUpdated>
+    <lastUpdated>20151113010130</lastUpdated>
   </versioning>
 </metadata>

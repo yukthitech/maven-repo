@@ -2,9 +2,7 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>com.yukthi</groupId>
 	<artifactId>yukthi-utils</artifactId>
-	<version>1.0</version>
 	<packaging>jar</packaging>
 
 	<name>yukthi-utils</name>
@@ -80,4 +78,11 @@
 			<scope>test</scope>
 		</dependency>
 	</dependencies>
+
+	<parent>
+		<groupId>com.yukthi</groupId>
+		<artifactId>yukthi-commons-parent</artifactId>
+		<version>1.0</version>
+		<relativePath>../yukthi-commons-parent</relativePath>
+	</parent>
 </project>
