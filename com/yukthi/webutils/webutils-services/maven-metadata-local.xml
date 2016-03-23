@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.yukthi.webutils</groupId>
+  <artifactId>webutils-services</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20160323050603</lastUpdated>
+  </versioning>
+</metadata>
