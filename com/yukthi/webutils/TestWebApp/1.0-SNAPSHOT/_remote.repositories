@@ -1,6 +1,0 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Mon Apr 04 00:26:27 IST 2016
-TestWebApp-1.0-SNAPSHOT.war>=
-TestWebApp-1.0-SNAPSHOT-sources.jar>=
-TestWebApp-1.0-SNAPSHOT-javadoc.jar>=
-TestWebApp-1.0-SNAPSHOT.pom>=
