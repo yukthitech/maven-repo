@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
   <groupId>com.yukthi</groupId>
-  <artifactId>yukthi-utils</artifactId>
+  <artifactId>yukthi-xml-mapper</artifactId>
   <versioning>
     <versions>
       <version>1.0-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20170105073716</lastUpdated>
+    <lastUpdated>20170105090423</lastUpdated>
   </versioning>
 </metadata>
